@@ -1,0 +1,29 @@
+# Header
+menu: #配置页头显示哪些菜单
+#  Home: /
+  Archives: /archives
+#  Reading: /reading
+  About: /about
+#rss: /atom.xml
+
+# Content
+excerpt_link: 更多 #摘要链接文字
+archive_yearly: false #按年存档
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- category
+- tag
+- tagcloud
+- recent_posts
+- archive
+
+# Miscellaneous
+google_analytics:
+favicon: /favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
