@@ -1,5 +1,5 @@
 title: about
-description: 你对本页的描述
+description: about
 date: 2015-10-11 21:59:10
 categories:
 tags:
@@ -7,7 +7,7 @@ tags:
 # 个人信息 #
 网名：老鼠部落 laoshubuluo
 
-职位：非屌丝程序员
+职位：非屌丝程序员、Android高级研发工程师
 
 QQ：541276229
 
